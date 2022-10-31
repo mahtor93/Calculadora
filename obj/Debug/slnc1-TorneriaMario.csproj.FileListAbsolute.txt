@@ -1,0 +1,11 @@
+C:\Users\Metatron\Downloads\slnc1-TorneriaMario\bin\Debug\slnc1-TorneriaMario_1.exe.config
+C:\Users\Metatron\Downloads\slnc1-TorneriaMario\bin\Debug\slnc1-TorneriaMario_1.exe
+C:\Users\Metatron\Downloads\slnc1-TorneriaMario\bin\Debug\slnc1-TorneriaMario_1.pdb
+C:\Users\Metatron\Downloads\slnc1-TorneriaMario\obj\Debug\slnc1-TorneriaMario.csproj.AssemblyReference.cache
+C:\Users\Metatron\Downloads\slnc1-TorneriaMario\obj\Debug\slnc1-TorneriaMario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Metatron\Downloads\slnc1-TorneriaMario\obj\Debug\slnc1_TorneriaMario_1.Form1.resources
+C:\Users\Metatron\Downloads\slnc1-TorneriaMario\obj\Debug\slnc1_TorneriaMario_1.Properties.Resources.resources
+C:\Users\Metatron\Downloads\slnc1-TorneriaMario\obj\Debug\slnc1-TorneriaMario.csproj.GenerateResource.cache
+C:\Users\Metatron\Downloads\slnc1-TorneriaMario\obj\Debug\slnc1-TorneriaMario.csproj.CoreCompileInputs.cache
+C:\Users\Metatron\Downloads\slnc1-TorneriaMario\obj\Debug\slnc1-TorneriaMario_1.exe
+C:\Users\Metatron\Downloads\slnc1-TorneriaMario\obj\Debug\slnc1-TorneriaMario_1.pdb
